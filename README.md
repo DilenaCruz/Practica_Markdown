@@ -1,6 +1,6 @@
 # Código en Markdown
 
-#DILENA CRUZ
+# DILENA CRUZ
 *Gestora de Recursos Naturales*
 **Universidad de Costa Rica**
 
