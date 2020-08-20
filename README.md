@@ -9,6 +9,7 @@
 >"La felicidad aparece cuando lo que piensas, lo que dices y lo que haces está en armonía"
 >-Gandhi.
 
+![GERENA](Imágenes/Identificador gráfico GERENA-04.png)
 
 <h3> Código en HTML </h3>
 
@@ -22,3 +23,5 @@
 <blockquote> "La felicidad aparece cuando lo que piensas, lo que dices y lo que haces está en armonía"
   -Gandhi.
 </bloxkquote>
+
+<img scr="Imágenes/Identificador gráfico GERENA-04.png" alt="gerena" wigth="300"
