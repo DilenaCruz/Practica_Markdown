@@ -22,7 +22,7 @@
   
 <blockquote> "La felicidad aparece cuando lo que piensas, lo que dices y lo que haces está en armonía"
   -Gandhi.
-</bloxkquote>
+</bloxkquote>  
 
 
 
