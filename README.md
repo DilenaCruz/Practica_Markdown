@@ -1,7 +1,7 @@
 ### Código en Markdown
 
 # DILENA CRUZ
-*Gestora de Recursos Naturales*
+*Gestora de Recursos Naturales*  
 
 **Universidad de Costa Rica**
 
