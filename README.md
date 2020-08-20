@@ -23,7 +23,7 @@
 <blockquote> "La felicidad aparece cuando lo que piensas, lo que dices y lo que haces está en armonía"
   -Gandhi.
 </bloxkquote>
-
+\
 <h4> Cursos de Maestría en GIRH-LAC II-2020 </h4>
 <table>
   <tr><th>Curso</th><th>Profesor(a)</th></tr>
