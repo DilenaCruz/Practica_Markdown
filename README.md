@@ -9,7 +9,7 @@
 >"La felicidad aparece cuando lo que piensas, lo que dices y lo que haces está en armonía"
 >-Gandhi.
 
-![GERENA](https://github.com/DilenaCruz/Practica_Markdown/blob/master/Im%C3%A1genes/Identificador%20gr%C3%A1fico%20GERENA-04.png)
+![GERENA](https://github.com/DilenaCruz/Practica_Markdown/blob/master/Im%C3%A1genes/Identificador%20gr%C3%A1fico%20GERENA-07.png)
 
 <h3> Código en HTML </h3>
 
