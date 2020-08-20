@@ -1,9 +1,11 @@
-# Código en Markdown
+### Código en Markdown
 
 # DILENA CRUZ
 *Gestora de Recursos Naturales*  
 \
 **Universidad de Costa Rica**
 
-https://www.ucr.ac.cr/
+
+
+<h3> Código en HTML </h3>
 <h1> DILENA CRUZ </h1>
