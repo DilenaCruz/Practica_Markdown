@@ -2,6 +2,7 @@
 
 # DILENA CRUZ
 *Gestora de Recursos Naturales*
+
 **Universidad de Costa Rica**
 
 [Perfil de LinkedIn](https://www.linkedin.com/in/dilenacruz/)
