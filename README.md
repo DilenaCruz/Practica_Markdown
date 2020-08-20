@@ -12,7 +12,7 @@
 
 <h1> DILENA CRUZ </h1>
 <em> Gestora de Recursos Naturales </em>
-\
+
 <strong> Universidad de Costa Rica </strong>
 
 <a href="https://www.linkedin.com/in/dilenacruz/"> Perfil de LinkedIn </a>
