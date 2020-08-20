@@ -6,6 +6,9 @@
 
 [Perfil de LinkedIn](https://www.linkedin.com/in/dilenacruz/)
 
+>"La felicidad aparece cuando lo que piensas, lo que dices y lo que haces está en armonía"
+>-Gandhi.
+
 
 <h3> Código en HTML </h3>
 
@@ -16,3 +19,6 @@
 
 <a href="https://www.linkedin.com/in/dilenacruz/"> Perfil de LinkedIn </a>
   
+<blockquote> "La felicidad aparece cuando lo que piensas, lo que dices y lo que haces está en armonía"
+  -Gandhi.
+</bloxkquote>
